@@ -1,0 +1,8 @@
+baseURL = 'https://muineach.com/'
+languageCode = 'en-us'
+title = 'Muineach'
+theme = 'ananke'
+
+[params]
+  author = "Derek Davis"
+  show_reading_time = true
