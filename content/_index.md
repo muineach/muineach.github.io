@@ -1,5 +1,5 @@
 ---
 title: "Muineach"
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+featured_image: 'images/derek-smoking.jpg'
 description: "The Blog of Derek Davis"
 ---
