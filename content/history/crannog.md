@@ -10,7 +10,7 @@ I live quite near this crannog, so heres a bit more information on it :)
 
 A crannog was a lake dwelling, a type of settlement quite common in Ireland up to the year 1000.  The word comes from the Irish word crann (tree) since wood was one of the main materials used.  First piles of stones were laid on the lake bed, and then wooden stakes were driven into the stones around the perimeter to form a wall.  Then mud, earth, wood and more stones were placed inside the perimeter until the surface came above the level of the lake, sometimes bridges were also used for access and dug out canoes have also been found. 
 
-[![Scan 1](/site/crannog/craggaunowen.jpg)](/site/crannog/craggaunowenhi.jpg)
+[![Scan 1](craggaunowen.jpg)](craggaunowenhi.jpg)
 
 [Reconstruction Co. Clare, Ireland](http://www.stonepages.com/ireland/craggaunowen.html)
 
@@ -20,7 +20,7 @@ The crannog is situated about a mile slightly north east of Dunshaughlin at the 
 
 [Reconstruction Co. Clare, Ireland](http://www.stonepages.com/ireland/craggaunowen.html)
 
-[![Scan 1](/site/crannog/canal_sm.jpg)](/site/crannog/canal.jpg)
+[![Scan 1](canal_sm.jpg)](canal.jpg)
 
 ## Cleaning of the river and turf cutting  
 
@@ -29,11 +29,11 @@ In 1848 and 1849 cleaning of the 'river' and turf-cutting again brought the site
 
 The river leading off the bog seems to have been deepened by man, I have heard reports from farmers that in order to drain the land they had to blast the rock out.  In the picture below the river flows from the left to the right, so the erosion pattern looks quite odd.
 
-![Rock Cut Away](/site/crannog/river_cut_rock.JPG)
+![Rock Cut Away](river_cut_rock.JPG)
 
 The river is only about 3-6 inches in places, but it is about 6-8 foot below ground level (as shown below). Just out of frame to the right is a large mound, approximately 8 foot across and 8 foot high, it seems quite obvious that they tried to drain the lake by cutting this river deeper that it originally was and they piled the soil they removed from the river onto the bank.  
 
-![Depth of river](/site/crannog/depth_of_river.JPG)
+![Depth of river](depth_of_river.JPG)
 
 Lagore -Loch Gabhair, the lake of the goat - is mentioned in Irish historical manuscripts and documents as the seat of local kings between 785 and 969 and references to the 'island  of Lagore' leave no doubt but that the crannog was their residence. But the history of the site may be traced back long before 785. 
 
@@ -65,15 +65,15 @@ This could scarcely have happened if the kings of the crannog were hostile pagan
 
 The site of the crannog can still be seen a few fields down off Lagore Road, a couple of miles outside the village but evidence of the extent of the lake comes right to the edge of the village.  
 
-![Lake Edge](/site/crannog/lake_edge.JPG)
+![Lake Edge](lake_edge.JPG)
 
-![Lake Edge 2](/site/crannog/lake_edge2.jpg)
+![Lake Edge 2](lake_edge2.jpg)
 
 But the visitor to the crannog site might be disappointed to be confronted by a mass of reeds and rushes in the marshy ground of Black Bog set amidst a landscape deserted except for sheep and cattle. Nearby the stagnant Broadmeadow  River has almost come to a halt. The place where the archaeologists excavated in the wintry summers of 1934, 1935 and 1936 can be seen - what was once an elevated area is now a hollow and the earth which was removed now forms embankments all around. 
 
 I have tried to locate the "crannog" there are approximately 4 different sites that I think may be it, all of the maps etc. locations but within a large distance.  I did find some ridges that may have been from the excavations in the 1930's. 
 
-![Ridges](/site/crannog/ridges.JPG)
+![Ridges](ridges.JPG)
  
 
 ## For More Information: 

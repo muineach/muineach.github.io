@@ -8,7 +8,7 @@ categories = ['Tumor']
 ## What have I got ?
 Well in technical terms I have a grade II Astrocytoma. In other words I've gotten cancer in my brain, and the grade II means that its usually slow-growing and are not likely to spread. The thing is its in an awkward location, its about halfway into the left side of my brain, in the diagram below it would be in between the Parietal lobe and the Occipital lobe. 
 
-![Locations in the brain](/site/scan/locations.gif)
+![Locations in the brain](locations.gif)
 
 
 ## Symptoms

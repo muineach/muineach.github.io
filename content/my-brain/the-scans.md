@@ -10,19 +10,19 @@ Ok so here are my MRI scans of my head, this are just the small thumbnails of th
 To view the full size image just click on the thumbnail.
 
 ## Scan 1:
-[![Scan 1](/site/scan/orig-scan/scan1_tn.jpg)](/site/scan/orig-scan/scan1.jpg)
+[![Scan 1](scan1_tn.jpg)](scan1.jpg)
 
 ## Scan 2:
-[![Scan 1](/site/scan/orig-scan/scan2_tn.jpg)](/site/scan/orig-scan/scan2.jpg)
+[![Scan 1](scan2_tn.jpg)](scan2.jpg)
 
 ## Scan 3:
-[![Scan 3](/site/scan/orig-scan/scan3_tn.jpg)](/site/scan/orig-scan/scan3.jpg)
+[![Scan 3](scan3_tn.jpg)](scan3.jpg)
 
 ## Scan 4:
-[![Scan 4](/site/scan/orig-scan/scan4_tn.jpg)](/site/scan/orig-scan/scan4.jpg)
+[![Scan 4](scan4_tn.jpg)](scan4.jpg)
 
 ## Scan 5:
-[![Scan 5](/site/scan/orig-scan/scan5_tn.jpg)](/site/scan/orig-scan/scan5.jpg)
+[![Scan 5](scan5_tn.jpg)](scan5.jpg)
 
 ## Scan 6:
-[![Scan 6](/site/scan/orig-scan/scan6_tn.jpg)](/site/scan/orig-scan/scan6.jpg)
+[![Scan 6](scan6_tn.jpg)](scan6.jpg)
