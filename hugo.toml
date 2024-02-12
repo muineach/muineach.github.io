@@ -8,4 +8,3 @@ author = "Derek Davis"
 show_reading_time = true
 pagination = 20
 favicon = "favicon.ico"
-custom_css = ["style.css"]
