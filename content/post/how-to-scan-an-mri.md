@@ -1,6 +1,6 @@
 +++
 title = 'How to Scan an MRI'
-date = 2006-03-13 16:47:06
+date = 2006-03-18 16:47:06
 draft = false
 categories = ['Tumor']
 +++

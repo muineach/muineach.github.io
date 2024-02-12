@@ -1,6 +1,6 @@
 +++
 title = 'The Story'
-date = 2006-03-17 09:37:27
+date = 2006-03-13 09:37:27
 draft = false
 categories = ['Tumor']
 +++
@@ -19,7 +19,7 @@ The CAT scan was a bit strange, your placed on a "bed" and then rolled into a la
 
 So then I had an MRI scan, same as before but a lot louder, then they decided they wanted to do a biopsy. So about 2 days later I was taken to the theatre where they carried it out, for the biopsy the drilled a hole in my skull aout 2cm. in diameter and then took samples with a long needle, then they stapled my skin back up and let me recover.  I was suprised as about 6 hours later I was awake and fully with it with no pain, it was only later that I realised they hade bored out the hole and left an empty space, so now I have a hole in my head with just skin covering it, which is a bit odd but doesnt cause any problems. 
 
-Over the whole operation and recover I never felt any pain so I had no medication to take which was a bit disappointed with, i had been hoping for a little bit of morphine :P only jokin.  So the biopsy confirmed that I had a grade 2 Astrocytoma, so this is where this story ends for information on the tumor go to, the [tumor section](/categories/tumor/). 
+Over the whole operation and recover I never felt any pain so I had no medication to take which was a bit disappointed with, i had been hoping for a little bit of morphine :P only jokin.  So the biopsy confirmed that I had a grade 2 Astrocytoma, so this is where this story ends for information on the tumor go to, the [tumor section](/my-brain/). 
 
 
 
