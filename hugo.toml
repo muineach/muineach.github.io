@@ -4,7 +4,12 @@ title = 'Muineach'
 theme = 'ananke'
 
 [params]
-  author = "Derek Davis"
-  show_reading_time = true
-  pagination = 20
-  favicon = "favicon.ico"
+author = "Derek Davis"
+show_reading_time = true
+pagination = 20
+favicon = "favicon.ico"
+custom_css = ["style.css"]
+
+[markup.goldmark.parser.attribute]
+block = true
+title = true
