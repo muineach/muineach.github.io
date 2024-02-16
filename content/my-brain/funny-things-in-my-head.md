@@ -1,6 +1,6 @@
 +++
 title = 'Funny things in my head'
-date = 2006-03-13 16:50:23
+date = 2006-03-15 16:50:23
 draft = false
 categories = ['Tumor']
 +++
