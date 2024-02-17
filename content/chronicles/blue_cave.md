@@ -5,7 +5,7 @@ categories = ['Chronicles']
 draft = false
 +++
 
-We're in a room that looks like my rooms from 15 years ago. There's 3 men and a 2-3 women sitting by the bed on the ground listening to the crap going on, one guy says he has to go so now theres a 'spare' girl remember think as she sat down beside me, shes only here now as he's gone, she snuggles up close to me asks something I just stare forward. 
+We're in a room that looks like my room from 15 years ago. There's 3 men and a 2-3 women sitting by the bed on the ground listening to the crap going on, one guy says he has to go so now theres a 'spare' girl remember think as she sat down beside me, shes only here now as he's gone, she snuggles up close to me asks something I just stare forward. 
  
 The she kisses my jaw then chin then I turn around and kiss her properly, she pushes her tongue deep into my mouth, I remember feeling disgust at both of us as she only doing it as the other guy is gone, but still enjoying it.  
 
